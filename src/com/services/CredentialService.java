@@ -15,11 +15,7 @@ return firstName.toLowerCase()+lastName.toLowerCase()+"@"+department.toLowerCase
 		
 }
 
-		
-
-	
-
-	public char[] generatePassword(){
+		public char[] generatePassword(){
 
 		
 		{
@@ -55,11 +51,6 @@ return firstName.toLowerCase()+lastName.toLowerCase()+"@"+department.toLowerCase
     	   "Password ---> " + " " + generatedPassword.toString();
 
 	}
-
-
-
-
-
 
 }
 
